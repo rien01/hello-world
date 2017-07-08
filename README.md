@@ -1,3 +1,6 @@
 # hello-world
 This is a description of Hello World Repository
-This is just a test
+
+Hi Folks!
+Rien here, I'm back to computer field after absent for about 18 years.
+Now, I'm learning new stuff.
